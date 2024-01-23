@@ -1,8 +1,10 @@
-# Neuromatch_Academy_Afrovenator ~ By the nerdy vampires
+# Prediction of Future Continuous Motion States from ECoG Recordings
 
-- Analysis of **Joystick Track data** from Miller 2008. In this 3 week project, we intended to determine how far into the future cursor position can be predicted with a reasonable accuracy from ECoG signals. This could be used to compensate the latency in BCI applications.
+- Analysis of **Joystick Track data** from Miller 2008. In this 3 week project, we intended to determine how far into the future cursor position can be predicted with a reasonable accuracy from ECoG signals. This could be used to compensate for the latency in BCI applications.
 
-- This project was conducted as part of the <a href="https://academy.neuromatch.io/" target="_blank">Neuromatch Academy program</a> 2023
+- This project was conducted as part of the [**2023 Neuromatch Academy Comp. Neuroscience Summer School**](https://academy.neuromatch.io/) by the **Afrovenator Folks(Nerdy Vampires)**.
+
+- ### [Project Slides](https://drive.google.com/file/d/1-sRtDmwekqunVUdEgIUPxj9G7HMCnPyG/view?usp=sharing) || [Notes](https://drive.google.com/file/d/1waw7gUm5EMuoeIdnq6wNfntYa4AZJ51X/view?usp=sharing)
 
 # Installation
 You can create an conda environment
